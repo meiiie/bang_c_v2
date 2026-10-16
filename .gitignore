@@ -1,0 +1,15 @@
+.venv/
+venv/
+runs/
+prompts/
+evals/
+dist/
+*.zip
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/
+inputs/
+submission*.csv
+*.checkpoint.jsonl
